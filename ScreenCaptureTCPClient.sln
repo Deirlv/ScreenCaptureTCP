@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScreenCaptureTCPClient", "ScreenCaptureTCPClient\ScreenCaptureTCPClient.csproj", "{CD47B4B8-E586-4E0E-833E-A0D259B235AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScreenCaptureTCPServer", "ScreenCaptureTCPServer\ScreenCaptureTCPServer.csproj", "{97057794-3AAA-48B4-9C6D-093902229714}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD47B4B8-E586-4E0E-833E-A0D259B235AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD47B4B8-E586-4E0E-833E-A0D259B235AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD47B4B8-E586-4E0E-833E-A0D259B235AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD47B4B8-E586-4E0E-833E-A0D259B235AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97057794-3AAA-48B4-9C6D-093902229714}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97057794-3AAA-48B4-9C6D-093902229714}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97057794-3AAA-48B4-9C6D-093902229714}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97057794-3AAA-48B4-9C6D-093902229714}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4DE7F021-08FC-4779-9550-563DFF189964}
+	EndGlobalSection
+EndGlobal
